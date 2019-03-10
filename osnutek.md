@@ -4,7 +4,7 @@ S sošolcem sva se odločila, da bova kot najino zbirko podatkov uporabila evide
 
 Natančneje, uporabila bova zbirko, naloženo 31.12.2018 (https://podatki.gov.si/dataset/evidenca-registriranih-vozil-presek-stanja/resource/629c25c3-2462-49c3-86bf-668e47f7c5dd)
 
-# Najin cilj
+# Cilj
 
 V podatkih bova poskušala najti kakšne pogoste trende (najpogostejši proizvajalci, trendi pri vozilih, ki se štejejo kot starodobniki, itd.). Podatki so po najinem mnenju zato zelo primerni, saj vsebujejo veliko parametrov (od proizvajalca, do prostornine motorja itd.) Natančneje, v podatkih je 26 atributov.
 
