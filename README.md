@@ -8,7 +8,7 @@
 ## Podatki in predprocesiranje
 Odločila sva se, da bova kot najino zbirko podatkov uporabila evidenco vseh registriranih vozil v Sloveniji. Podatke se lahko najde tukaj: https://podatki.gov.si/dataset/evidenca-registriranih-vozil-presek-stanja.
 
-Zbirka je sestavljena iz približno 2 miljona elementov. Mislila sva, da je zbirka že omejena na avtomobile, ampak zbirka vsebuje VSA vozila v Sloveniji, in vključuje:
+Zbirka je sestavljena iz približno 2 milijona elementov. Mislila sva, da je zbirka že omejena na avtomobile, ampak zbirka vsebuje VSA vozila v Sloveniji, in vključuje:
  * Motorna kolesa
  * Delovne stroje
  * Dvigala
