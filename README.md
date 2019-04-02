@@ -21,8 +21,17 @@ Na srečo v podakovni zbirki obstaja stolpec, ki opisuje tip vozila, tako da je 
 
 Po filtraciji sva naletela še na kar nekaj problemov. Obstaja več atributov, ki se navezujejo samo na določen tip vozila (recimo stolpec "Q-Razmerje moc/masa (samo za motorna kolesa)"). Te stolpce sva pobrisala pred začetkom analiz.
 
-Drugi večji problem pa so nekonsistentnosti pri podatkih. Lep primer tega je recimo proizvajalec "Alfa Romeo". V podatkih se pojavijo kar trije različni načini zapisa (ALFA ROMEO, ALFA-ROMEO, ALFA- ROMEO). Te podatke sva seveda popravila, ampak samo zato, ker točno veva pravilno obliko podatkov. 
+Drugi večji problem pa so nekonsistentnosti pri podatkih. Lep primer tega je recimo proizvajalec "Alfa Romeo". V podatkih se pojavijo kar trije različni načini zapisa (ALFA ROMEO, ALFA-ROMEO, ALFA- ROMEO). Te podatke sva seveda lahko popravila, ampak samo zato, ker točno veva pravilno obliko podatkov. 
 
-Zaplete se recimo pri stolpcu "D.3-Komerc. oznaka" kjer so podatki model, prostornina motorja in še kakšna druga lastnost ločeni z znakom "/". Tukaj pa pravilnosti, oz. večih vnosov z istim pomenom ne moreva več zaznavati in popravljati.
+Zaplete se recimo pri stolpcu "D.3-Komerc. oznaka" kjer so podatki, kot so model, prostornina motorja in še kakšna druga lastnost ločeni z znakom "/". Tukaj pa pravilnosti, oz. večih vnosov z istim pomenom ne moreva več zaznavati in popravljati.
 
+## Glavna vprašanja / izzivi
+Osredotočila se bova na spreminjanje populacije avtomobilov skozi čas. S tem se bova tudi izognila večini glavobolov, ki jih lahko povzročijo nekonsistentonosti v podatkih, omenjene zgoraj.
+
+Poskušala bova prikazati različne vidike sprememb (od najpopularnejših znamk, števila registriranih avtomobilov na leto, popularnost različnih vrst goriv itd.). Misliva, da bodo spremembe skozi čas dovolj očitne, da se bodo lepo prikazale na vizualizacijah.
+
+Zanimivo bo videti tudi spremembe, ki jih je v Slovenijo prinesla, recimo, pridružitev EU. Meniva, da je populacija avtomobilov na takšne spremembe dokaj občutljiva.
+
+# Kriterji uspešnosti
+Kot je napisano zgoraj, želiva doseči rezultate, ki bodo jasno videni na vizualizacijah. Če bova lahko, bova ustvarila animacijo, podobno tisti, na Google-ovem portalu za podatke. Najina sicer verjetno ne bo interaktivna, ampak spremembe, in potencialne psebnosti, bodo enostavno vidne.
 
