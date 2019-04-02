@@ -33,5 +33,5 @@ Poskušala bova prikazati različne vidike sprememb (od najpopularnejših znamk,
 Zanimivo bo videti tudi spremembe, ki jih je v Slovenijo prinesla, recimo, pridružitev EU. Meniva, da je populacija avtomobilov na takšne spremembe dokaj občutljiva.
 
 # Kriterji uspešnosti
-Kot je napisano zgoraj, želiva doseči rezultate, ki bodo jasno videni na vizualizacijah. Če bova lahko, bova ustvarila animacijo, podobno tisti, na Google-ovem portalu za podatke. Najina sicer verjetno ne bo interaktivna, ampak spremembe, in potencialne psebnosti, bodo enostavno vidne.
+Kot je napisano zgoraj, želiva doseči rezultate, ki bodo jasno videni na vizualizacijah. Če bova lahko, bova ustvarila animacijo, podobno tisti, na Google-ovem portalu za podatke. Najina sicer verjetno ne bo interaktivna, ampak spremembe, in potencialne posebnosti, bodo enostavno vidne.
 
