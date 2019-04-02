@@ -26,7 +26,7 @@ Drugi večji problem pa so nekonsistentnosti pri podatkih. Lep primer tega je re
 Zaplete se recimo pri stolpcu "D.3-Komerc. oznaka" kjer so podatki, kot so model, prostornina motorja in še kakšna druga lastnost ločeni z znakom "/". Tukaj pa pravilnosti, oz. večih vnosov z istim pomenom ne moreva več zaznavati in popravljati.
 
 ## Glavna vprašanja / izzivi
-Osredotočila se bova na spreminjanje populacije avtomobilov skozi čas. S tem se bova tudi izognila večini glavobolov, ki jih lahko povzročijo nekonsistentonosti v podatkih, omenjene zgoraj.
+Osredotočila se bova na spremembe v populaciji avtomobilov skozi čas. S tem se bova tudi izognila večini glavobolov, ki jih lahko povzročijo nekonsistentonosti v podatkih, omenjene zgoraj.
 
 Poskušala bova prikazati različne vidike sprememb (od najpopularnejših znamk, števila registriranih avtomobilov na leto, popularnost različnih vrst goriv itd.). Misliva, da bodo spremembe skozi čas dovolj očitne, da se bodo lepo prikazale na vizualizacijah.
 
