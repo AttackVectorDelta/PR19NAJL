@@ -1,0 +1,22 @@
+B-Datum prve registracije vozila
+2A-Datum prve registracije vozila v SLO
+4A-Registrsko obmocje tablice prve registracije
+C-Starost uporabnika vozila
+C-Ali je uporabnik pravna ali fizicna oseba
+C-Ali je uporabnik tudi lastnik vozila
+C1.3-Obcina uporabnika vozila (opis)
+C2-Starost lastnika vozila
+C2-Ali je lastnik pravna ali fizicna oseba
+D.1-Znamka
+D.3-Komerc. oznaka
+D.4.2-Drzava (koda)
+G-Masa vozila
+P.1.1-Delovna prostornina
+P.1.2-Nazivna moc
+P.1.3-Vrsta goriva (opis)
+P.1.3-Vrsta goriva (oznaka)
+R-Barva vozila (opis)
+S.1-Stevilo sedezev (vkljucno z vozniskim)
+Okoljevarstvena oznaka
+Komerc. oznaka  do prvega /
+5A-Leto izdelave
